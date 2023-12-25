@@ -1,8 +1,8 @@
 # watch-to-watch
 
-npm start
-npm test
-npm run build
+# npm start
+# npm test
+# npm run build
 
 
 
